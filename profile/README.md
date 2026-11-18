@@ -1,5 +1,3 @@
-<a href="https://agnost.ai"><img src="./banner.jpg" alt="Agnost AI: infrastructure for self-improving AI agents" width="100%"></a>
-
 # Agnost AI
 
 **Agnost AI monitors AI agents in production: chat agents, voice agents, copilots and MCP servers.**
